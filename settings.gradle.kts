@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Photobook"
 include(":app")
+include(":core")
+include(":common")
